@@ -58,7 +58,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-arduino
-Copy code
 
-This template can be used to document your project’s purpose, features, setup instructions, and basic usage. You can further customize it based on your project’s requirements.
