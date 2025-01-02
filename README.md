@@ -11,8 +11,6 @@ The **Employee Management System (EMS)** is a web application designed to help m
 
 ## Tech Stack
 - **Frontend**: React.js, TailwindCSS, Vite (for fast bundling)
-- **Backend**: Node.js (if used)
-- **State Management**: React Context API
 - **Authentication**: Local Storage for storing user data
 - **Version Control**: Git, GitHub for repository management
 
