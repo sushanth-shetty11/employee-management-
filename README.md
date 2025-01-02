@@ -21,6 +21,7 @@ Clone this repository to your local machine:
 
 --bash--
 git clone https://github.com/sushanth-shetty11/employee-management-.git
+
 2. Install dependencies
 Navigate into the project directory and install the required dependencies using npm:
 
